@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474849117022",
+    "firebase_url": "https://respondent-app.firebaseio.com",
+    "project_id": "respondent-app",
+    "storage_bucket": "respondent-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474849117022:android:bcdf2b738853d898dd85cf",
+        "android_client_info": {
+          "package_name": "com.example.respodentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474849117022-qht39m506rjkp0toacrk0maam366f5a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfRSxHckZ_lfWKAnvVMo55tYGE53bkZW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474849117022-qht39m506rjkp0toacrk0maam366f5a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
